@@ -4,6 +4,16 @@ const assignment = {};
 // ========================
 
 
+function sumOfNumbers(arrayOfNumbers) {
+  sum = 0;
+  for (let i = 0; i < arrayOfNumbers.length - 1; i++) {
+    sum+= arrayOfNumbers[i];
+  }
+  return sum;
+}
+// assignment.sumOfNumbers = sumOfNumbers;
+
+
 function countEvenNumbers(arrayOfNumbers) {
   count = 0;
   for (let j = 0; j < arrayOfNumbers.length - 1 ; j++) {

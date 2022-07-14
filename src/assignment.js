@@ -4,13 +4,10 @@ const assignment = {};
 // ========================
 
 
-const arrayOfNumbers = [1,2,3,4,5,6,7,8,9,10];
-
-
 function sumOfNumbers(arrayOfNumbers) {
   sum = 0;
   for (let i = 0; i < arrayOfNumbers.length - 1; i++) {
-    sum+= arrayOfNumbers[i];
+    sum+= aSrrayOfNumbers[i];
   }
   return sum;
 }

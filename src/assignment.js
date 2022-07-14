@@ -17,7 +17,7 @@ function sumOfNumbers(arrayOfNumbers) {
 function countEvenNumbers(arrayOfNumbers) {
     return countevenNumbers;    
 }
-// assignment.countEvenNumbers = countEvenNumbers;
+
 
 
 function celsiusToFahrenheit(arrayOfNumbers) {
@@ -28,7 +28,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
   }
     return arrayOfNumbers2;
 }
-// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+
 
 
 // ========================

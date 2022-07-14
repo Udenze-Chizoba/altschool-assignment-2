@@ -7,7 +7,7 @@ const assignment = {};
 function sumOfNumbers(arrayOfNumbers) {
   sum = 0;
   for (let i = 0; i < arrayOfNumbers.length - 1; i++) {
-    sum+= aSrrayOfNumbers[i];
+    sum+= arrayOfNumbers[i];
   }
   return sum;
 }
